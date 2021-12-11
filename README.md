@@ -3,7 +3,7 @@
 
  Topic | Answer
 ------------ | -------------
-Name: | SalvoC_
+Name: | Salvo
 Age: | ;P
 Location: | Italy
 Languages: | Italia, English, Francais
